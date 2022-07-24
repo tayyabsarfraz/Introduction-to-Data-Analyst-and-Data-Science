@@ -1,3 +1,0 @@
--> Mathematical Operations like(Add, sub, mul, div, modulus, ) with 1-D and also 2-D np.arrays.
--> statistical functions like (in, max, mean, median, percentile, variance and standard deviation) on 1-D, 2-D and 3-D.
--> Actually the beauty of these operations is that we will not use single loop to do this. 
