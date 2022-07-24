@@ -1,0 +1,10 @@
+List of Unsupervised Learning algorithms:
+- K-means clustering
+- KNN (k-nearest neighbors)
+- Hierarchal clustering
+- Anomaly detection
+- Neural Networks
+- Principle Component Analysis
+- Independent Component Analysis
+- Apriori algorithm
+- Singular value decomposition

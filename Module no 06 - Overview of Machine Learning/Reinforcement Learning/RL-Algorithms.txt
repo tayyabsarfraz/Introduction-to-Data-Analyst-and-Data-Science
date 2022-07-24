@@ -1,0 +1,11 @@
+Types of Reinforcement learning
+There are mainly two types of reinforcement learning, which are:
+
+- Positive Reinforcement
+- Negative Reinforcement
+
+Reinforcement Learning Algorithms
+- Q-Learning
+- State Action Reward State action (SARSA)
+- Deep Q Neural Network (DQN)
+

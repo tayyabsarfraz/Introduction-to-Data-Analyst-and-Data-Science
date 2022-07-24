@@ -1,0 +1,7 @@
+List of Common Algorithms
+- Nearest Neighbor
+- Naive Bayes
+- Decision Trees
+- Linear Regression
+- Support Vector Machines (SVM)
+- Neural Networks
