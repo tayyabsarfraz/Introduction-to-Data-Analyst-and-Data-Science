@@ -1,5 +1,5 @@
 ## Big Data Definition
-![](https://intellipaat.com/blog/wp-content/uploads/2015/07/Big-Data.gif)
+<img src="https://intellipaat.com/blog/wp-content/uploads/2015/07/Big-Data.gif" height=500px width=500px>
 Big Data is a term that is used for denoting a collection of datasets that is large and complex, making it very difficult to process using legacy data processing applications.
 
 ## Types of Big Data
