@@ -13,8 +13,10 @@ chromeOptions.add_argument("--start-maximized")
 
 #driver = webdriver.Chrome(executable_path="/Users/arif/Documents/chromedriver", options=chromeOptions)
 #Starts the driver and goes to twitter login page
-s = Service('/Users/arif/Documents/chromedriver') #path where driver is located on your local disk
+s = Service('/Downloads/chromedriver_linux64/chromedriver') #path where driver is located on your local disk
 driver = webdriver.Chrome(service=s, options = chromeOptions) #create headless instance of chrome web driver
+
+# driver = webdriver.Chrome() #create headless instance of chrome web driver
 tweeter_url = "https://twitter.com/login"
 driver.get(tweeter_url)
 wait = WebDriverWait(driver, 10)
